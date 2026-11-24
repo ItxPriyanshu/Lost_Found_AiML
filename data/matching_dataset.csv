@@ -1,0 +1,226 @@
+lost_desc,found_desc,text_similarity,same_category,same_color,same_location,date_diff_days,is_match
+Navy blue zip wallet lost near student center,Blue fabric wallet found with coins at student center,0.5296,1,1,1,3,1
+Missing item: Black Wildcraft school backpack lost in central library,Found blue Skybags luggage suitcase at hostel gate,0.063,1,1,0,20,0
+Missing item: Silver Casio analog metal watch lost in lecture hall,Found brown ladies leather purse in cafeteria,0.027,0,1,0,25,0
+Dell silver laptop Inspiron 15 lost in lab,Different brand: Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,18,0
+Missing item: Pair of brass padlock keys lost in gym,Found white lab coat in science block,0.018,0,0,0,35,0
+Brown slim cardholder lost in cafeteria (lost last month),Found silver MacBook Air in auditorium,0.016,0,0,0,10,0
+Black Wildcraft school backpack lost in central library (lost last month),Found blue Skybags luggage suitcase at hostel gate,0.056,1,0,0,6,0
+Urgent: Brass padlock keys on carabiner ring lost at gym,Found padlock keys on metal clip in sports complex locker room,0.2889,1,1,1,2,1
+Silver Casio analog watch lost in lecture hall (lost last month),Found black digital Apple watch at sports ground,0.072,1,0,0,7,0
+Red Nike gym duffle bag lost in sports complex,Different brand: Found green military rucksack at main gate,0.035,1,0,0,21,0
+Urgent: Fossil black dial chronograph watch forgotten in auditorium,Found all black Fossil men's watch in auditorium,0.6642,1,1,1,2,1
+Lost blue iPhone 13 with cracked glass at library,Found iPhone 13 blue color with screen scratch near library entrance,0.6984,1,1,1,1,1
+Missing item: Silver Casio analog metal watch lost in lecture hall,Found brown ladies leather purse in cafeteria,0.027,0,1,0,20,0
+Lost white Pixel 7 with flower sticker,Found Google Pixel 7 white color with skin in lecture hall (handed over to security),0.4917,1,0,0,3,1
+Black Wildcraft backpack lost in 2nd floor library,Found black Wildcraft laptop backpack near library 2nd floor,0.934,1,1,1,1,1
+Dell silver laptop Inspiron 15 lost in lab,Found Dell Inspiron 15 inch silver laptop on workstation in Computer Lab 3,0.9332,1,1,1,0,1
+Silver Casio analog metal watch lost in lecture hall,Found silver Casio quartz watch in Lecture Hall A,0.5379,1,1,1,1,1
+Missing item: Red Nike gym duffle bag lost in sports complex,Found green military rucksack at main gate,0.045,1,1,0,26,0
+Urgent: Ray-Ban black frame reading glasses left in reading hall,Black prescription eyeglasses in hard case found in central library,0.22,1,1,1,3,1
+Black leather men's wallet lost in library,Found pink floral fabric wallet in cafeteria,0.08,1,0,0,2,0
+Hostel room 304 cylinder keys lost in library,Godrej hostel door keys found in library reading section (handed over to security),0.4582,1,1,0,2,1
+Black Samsung Galaxy phone lost in lab,Samsung black mobile found on table in Computer Lab 3,0.6266,1,1,1,0,1
+Black leather men's wallet lost in library,Different brand: Found pink floral fabric wallet in cafeteria,0.056,1,0,0,16,0
+Missing item: Navy blue Skybags backpack lost in lecture hall,Found black Hyundai car smart key at admin parking,0.009,0,1,0,40,0
+White AirPods Pro 2 earbuds in charging case lost at student center,Found white wireless earphone case at student center,0.5044,1,1,1,2,1
+Black car smart remote key lost near admin block,Hyundai black car key fob found near admin block car parking (handed over to security),0.466,1,0,0,3,1
+Red Nike gym duffle bag left in sports hall,Found Ray-Ban spectacles in reading hall,0.0,0,0,0,2,0
+Missing item: Blue iPhone 13 lost at sports complex,Found black Samsung flip phone in admin block,0.054,1,1,0,22,0
+Missing item: Black Samsung Galaxy phone lost in lab,Found Titan analog leather watch in library,0.009,0,1,0,22,0
+Urgent: White chemistry lab coat lost in science wing,White lab coat with name badge found in chemistry lab science block,0.832,1,1,1,3,1
+Silver Casio analog metal watch lost in lecture hall (lost last month),Found brown ladies leather purse in cafeteria,0.024,0,0,0,13,0
+Honda bike keys with red keychain lost near main gate,Found bike keys with red Honda keychain at main gate,1.0,1,1,1,0,1
+Lost blue iPhone 13 with cracked glass at library,Found iPhone 13 blue color with screen scratch near library entrance (handed over to security),0.6286,1,0,1,2,1
+Silver Casio analog metal watch lost in lecture hall (lost last month),Found brown ladies leather purse in cafeteria,0.024,0,0,0,15,0
+Godrej hostel door keys lost in library,Found blue Milton thermos flask at library,0.05,0,0,1,0,0
+Silver Casio analog metal watch lost in lecture hall,Found brown ladies leather purse in cafeteria,0.03,0,0,0,7,0
+Red Nike gym duffle bag left in sports hall,Different brand: Found Ray-Ban spectacles in reading hall,0.0,0,0,0,16,0
+Red Nike gym duffle bag left in sports hall (lost last month),Found Ray-Ban spectacles in reading hall,0.0,0,0,0,21,0
+Lost blue iPhone 13 near canteen,Different brand: Found set of Honda bike keys at main gate,0.007,0,0,0,27,0
+Missing item: Gold finish Apple MacBook Air left in lecture hall,Found red Fastrack sports watch in sports complex,0.0,0,0,0,52,0
+Gold finish Apple MacBook Air left in lecture hall,Found red Fastrack sports watch in sports complex,0.0,0,0,0,20,0
+Brown slim cardholder lost in cafeteria,Found silver MacBook Air in auditorium,0.02,0,0,0,3,0
+Gold finish Apple MacBook Air left in lecture hall,Different brand: Found red Fastrack sports watch in sports complex,0.0,0,0,0,33,0
+Gold finish Apple MacBook Air left in lecture hall (lost last month),Found red Fastrack sports watch in sports complex,0.0,0,0,0,10,0
+Gold finish Apple MacBook Air left in lecture hall (lost last month),Found red Fastrack sports watch in sports complex,0.0,0,0,0,34,0
+Honda bike keys with red keychain lost near main gate,Different brand: Found HP gaming laptop in computer lab,0.007,0,0,0,40,0
+Fossil black dial chronograph watch forgotten in auditorium,Found all black Fossil men's watch in auditorium (handed over to security),0.6292,1,1,0,5,1
+ThinkPad black laptop forgotten in admin office,Lenovo ThinkPad black laptop handed in at admin block (handed over to security),0.7313,1,1,1,5,1
+Missing item: Godrej hostel door keys lost in library,Found blue Milton thermos flask at library,0.045,0,0,0,37,0
+Dell silver laptop Inspiron 15 lost in lab,Different brand: Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,31,0
+White AirPods Pro 2 earbuds in charging case lost at student center,Found black Wildcraft backpack in library,0.01,0,0,0,1,0
+Brass padlock keys on carabiner ring lost at gym,Found padlock keys on metal clip in sports complex locker room,0.3041,1,1,1,1,1
+Blue Milton stainless steel water bottle left at library,Insulated steel water bottle blue color found in library,0.7258,1,1,1,0,1
+White AirPods Pro 2 earbuds in charging case lost at student center,Found white wireless earphone case at student center (handed over to security),0.4539,1,0,0,6,1
+Red Nike gym duffle bag left in sports hall,Different brand: Found Ray-Ban spectacles in reading hall,0.0,0,0,0,30,0
+Urgent: White canvas tote bag forgotten in auditorium,Off-white tote bag with drawing books found in auditorium hall,0.5455,1,1,1,4,1
+Lost white Pixel 7 with flower sticker,Found Google Pixel 7 white color with skin in lecture hall,0.5463,1,1,1,1,1
+Silver Casio analog metal watch lost in lecture hall,Different brand: Found brown ladies leather purse in cafeteria,0.021,0,0,0,24,0
+Black Wildcraft school backpack lost in central library,Different brand: Found blue Skybags luggage suitcase at hostel gate,0.049,1,0,0,11,0
+Red Nike gym duffle bag left in sports hall (lost last month),Found Ray-Ban spectacles in reading hall,0.0,0,0,0,8,0
+Navy blue zip wallet lost near student center,Blue fabric wallet found with coins at student center (handed over to security),0.4766,1,1,1,5,1
+Brown leather strap Titan watch lost in library,Found Titan analog watch with brown leather belt in library,0.8504,1,1,1,1,1
+Urgent: Red iPhone 11 misplaced near cafeteria,Found red Apple iPhone with case in cafeteria area,0.5228,1,1,1,4,1
+Black Samsung Galaxy phone lost in lab,Samsung black mobile found on table in Computer Lab 3 (handed over to security),0.564,1,1,1,4,1
+Missing item: Black leather wallet lost at library,Found Dell Inspiron laptop in lab,0.018,0,0,0,38,0
+Fossil black dial chronograph watch forgotten in auditorium,Found all black Fossil men's watch in auditorium,0.6992,1,1,1,2,1
+G-Shock rugged black digital watch left at ground,Casio G-Shock black digital watch found at sports ground (handed over to security),0.5808,1,1,1,7,1
+Urgent: Lost brown cardholder near canteen,Found brown slim cardholder in cafeteria seating area,0.5752,1,1,1,4,1
+Urgent: ThinkPad black laptop forgotten in admin office,Lenovo ThinkPad black laptop handed in at admin block,0.7719,1,1,1,3,1
+Missing item: Lost blue iPhone 13 near canteen,Found set of Honda bike keys at main gate,0.009,0,0,0,43,0
+Black Samsung Galaxy phone lost in lab,Found Titan analog leather watch in library,0.01,0,0,0,6,0
+Brown slim cardholder lost in cafeteria,Different brand: Found silver MacBook Air in auditorium,0.014,0,0,0,28,0
+Urgent: Black Apple Watch Series 8 lost in sports area,Apple watch black sports strap found on ground at sports complex,0.7099,1,1,1,0,1
+Missing item: Black Samsung Galaxy phone lost in lab,Found Titan analog leather watch in library,0.009,0,0,0,35,0
+Lost blue iPhone 13 near canteen (lost last month),Found set of Honda bike keys at main gate,0.008,0,0,0,14,0
+Gold finish Apple MacBook Air left in lecture hall,Different brand: Found red Fastrack sports watch in sports complex,0.0,0,0,0,16,0
+Black Wildcraft backpack lost in 2nd floor library,Found black Wildcraft laptop backpack near library 2nd floor (handed over to security),0.8406,1,0,1,2,1
+Grey passport wallet misplaced admin building,Found grey travel wallet at admin block corridor,0.4849,1,1,1,1,1
+Urgent: Red Nike gym bag left in sports hall,Red duffle bag containing gym gear found in sports complex,0.6328,1,1,1,0,1
+Red iPhone 11 misplaced near cafeteria,Found red Apple iPhone with case in cafeteria area (handed over to security),0.4953,1,1,1,6,1
+Navy blue college backpack left in lecture room,Blue Skybags school bag found in Lecture Hall A,0.25,1,1,1,2,1
+Dell silver laptop Inspiron 15 lost in lab,Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,8,0
+Red Nike gym duffle bag left in sports hall,Found Ray-Ban spectacles in reading hall,0.0,0,0,0,15,0
+Fossil black dial watch forgotten in auditorium,Found Casio scientific calculator in lecture hall,0.04,0,0,0,11,0
+Black HP Pavilion gaming laptop with charger,Black gaming laptop with charger left in lab 3,0.6299,1,1,1,2,1
+Black Wildcraft school backpack lost in central library,Found blue Skybags luggage suitcase at hostel gate,0.07,1,0,0,1,0
+Missing item: Silver Casio analog watch lost in lecture hall,Found black digital Apple watch at sports ground,0.081,1,1,0,25,0
+Honda bike keys with red keychain lost near main gate,Found bike keys with red Honda keychain at main gate (handed over to security),0.9,1,1,1,2,1
+Urgent: Grey messenger bag with shoulder strap lost in lab,Grey polyester laptop shoulder bag found in Computer Lab 3,0.6195,1,1,1,3,1
+Urgent: Blue Milton stainless steel water bottle left at library,Insulated steel water bottle blue color found in library,0.6895,1,1,1,1,1
+Black Samsung Galaxy phone lost in lab (lost last month),Found Titan analog leather watch in library,0.008,0,0,0,16,0
+Hostel room 304 cylinder keys lost in library,Godrej hostel door keys found in library reading section,0.5091,1,1,1,1,1
+Missing item: Fossil black dial watch forgotten in auditorium,Found Casio scientific calculator in lecture hall,0.036,0,1,0,45,0
+Urgent: Lost white Pixel 7 with flower sticker,Found Google Pixel 7 white color with skin in lecture hall,0.519,1,1,1,3,1
+Dell silver laptop Inspiron 15 lost in lab,Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,2,0
+Lost blue iPhone 13 near canteen,Found set of Honda bike keys at main gate,0.01,0,0,0,1,0
+Dell silver laptop Inspiron 15 lost in lab (lost last month),Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,14,0
+Black leather wallet lost at library,Found black leather bi-fold wallet with ID near library tables,0.6648,1,1,1,1,1
+Urgent: Black leather wallet lost at library,Found black leather bi-fold wallet with ID near library tables,0.6315,1,1,1,1,1
+Urgent: Honda bike keys with red keychain lost near main gate,Found bike keys with red Honda keychain at main gate,0.95,1,1,1,0,1
+Dell silver laptop Inspiron 15 lost in lab,Found Dell Inspiron 15 inch silver laptop on workstation in Computer Lab 3 (handed over to security),0.8399,1,1,1,1,1
+Ray-Ban black frame reading glasses left in reading hall,Black prescription eyeglasses in hard case found in central library (handed over to security),0.2,1,1,1,5,1
+Lost blue iPhone 13 near canteen,Found set of Honda bike keys at main gate,0.01,0,0,0,12,0
+Missing item: Brown slim cardholder lost in cafeteria,Found silver MacBook Air in auditorium,0.018,0,1,0,43,0
+Honda bike keys with red keychain lost near main gate (lost last month),Found HP gaming laptop in computer lab,0.008,0,0,0,29,0
+Casio fx-991EX scientific calculator lost in lecture hall,Found black Casio scientific calculator in Lecture Hall A,0.7331,1,1,1,1,1
+Brass padlock keys on carabiner ring lost at gym,Found padlock keys on metal clip in sports complex locker room (handed over to security),0.2737,1,1,1,5,1
+Insulated blue Milton steel thermos flask lost in library,Different brand: Found red leather clutch purse in auditorium,0.0,0,0,0,28,0
+Navy blue Skybags backpack lost in lecture hall (lost last month),Found black Hyundai car smart key at admin parking,0.008,0,0,0,22,0
+Urgent: White AirPods Pro 2 earbuds in charging case lost at student center,Found white wireless earphone case at student center,0.4792,1,1,1,2,1
+White canvas tote bag forgotten in auditorium,Off-white tote bag with drawing books found in auditorium hall,0.5742,1,1,1,2,1
+Missing item: White AirPods Pro 2 earbuds in charging case lost at student center,Found black Wildcraft backpack in library,0.009,0,0,0,33,0
+Silver Casio analog metal watch lost in lecture hall,Found silver Casio quartz watch in Lecture Hall A (handed over to security),0.4841,1,1,1,5,1
+Green OnePlus phone left at cafeteria table,Emerald green OnePlus smartphone found near cafeteria food counter (handed over to security),0.4123,1,1,1,6,1
+Pair of brass padlock keys lost in gym,Different brand: Found white lab coat in science block,0.014,0,0,0,27,0
+Insulated blue Milton steel thermos flask lost in library (lost last month),Found red leather clutch purse in auditorium,0.0,0,0,0,33,0
+Red Nike gym bag left in sports hall,Red duffle bag containing gym gear found in sports complex,0.6661,1,1,1,0,1
+Urgent: Navy blue zip wallet lost near student center,Blue fabric wallet found with coins at student center,0.5031,1,1,1,3,1
+Black Samsung Galaxy phone lost in lab,Different brand: Found Titan analog leather watch in library,0.007,0,0,0,20,0
+Silver Casio analog watch lost in lecture hall,Found black digital Apple watch at sports ground,0.09,1,0,0,2,0
+Red ladies purse lost in auditorium,Found a red clutch purse near stage in auditorium,0.5601,1,1,1,0,1
+Red iPhone 11 misplaced near cafeteria,Found red Apple iPhone with case in cafeteria area,0.5504,1,1,1,3,1
+Black Samsung Galaxy phone lost in lab,Different brand: Found Titan analog leather watch in library,0.007,0,0,0,18,0
+Brown slim cardholder lost in cafeteria,Different brand: Found silver MacBook Air in auditorium,0.014,0,0,0,18,0
+Missing item: Brown slim cardholder lost in cafeteria,Found silver MacBook Air in auditorium,0.018,0,1,0,18,0
+Fossil black dial watch forgotten in auditorium (lost last month),Found Casio scientific calculator in lecture hall,0.032,0,0,0,18,0
+Lost brown cardholder near canteen,Found brown slim cardholder in cafeteria seating area (handed over to security),0.5449,1,1,1,3,1
+Godrej hostel door keys lost in library (lost last month),Found blue Milton thermos flask at library,0.04,0,0,1,17,0
+Urgent: Black Wildcraft backpack lost in 2nd floor library,Found black Wildcraft laptop backpack near library 2nd floor,0.8873,1,1,1,1,1
+Honda bike keys with red keychain lost near main gate,Found HP gaming laptop in computer lab,0.01,0,0,0,22,0
+Urgent: Silver Casio analog metal watch lost in lecture hall,Found silver Casio quartz watch in Lecture Hall A,0.511,1,1,1,3,1
+Missing item: Dell silver laptop Inspiron 15 lost in lab,Found emerald green OnePlus phone at cafeteria,0.0,0,1,0,31,0
+Missing item: White AirPods Pro 2 earbuds in charging case lost at student center,Found black Wildcraft backpack in library,0.009,0,0,0,23,0
+Blue iPhone 13 lost at sports complex (lost last month),Found black Samsung flip phone in admin block,0.048,1,0,0,15,0
+Brown leather strap Titan watch lost in library,Found Titan analog watch with brown leather belt in library (handed over to security),0.7653,1,1,1,3,1
+Red Nike gym duffle bag lost in sports complex,Found green military rucksack at main gate,0.05,1,0,0,3,0
+Black Apple Watch Series 8 lost in sports area,Apple watch black sports strap found on ground at sports complex (handed over to security),0.6726,1,1,0,1,1
+Urgent: Navy blue college backpack left in lecture room,Blue Skybags school bag found in Lecture Hall A,0.22,1,1,1,2,1
+Pair of brass padlock keys lost in gym (lost last month),Found white lab coat in science block,0.016,0,0,0,17,0
+Grey messenger bag with shoulder strap lost in lab,Grey polyester laptop shoulder bag found in Computer Lab 3 (handed over to security),0.5869,1,1,1,2,1
+Godrej hostel door keys lost in library,Different brand: Found blue Milton thermos flask at library,0.035,0,0,0,20,0
+Urgent: Green OnePlus phone left at cafeteria table,Emerald green OnePlus smartphone found near cafeteria food counter,0.4352,1,1,1,2,1
+Missing item: Black leather men's wallet lost in library,Found pink floral fabric wallet in cafeteria,0.072,1,1,0,26,0
+Missing item: Honda bike keys with red keychain lost near main gate,Found HP gaming laptop in computer lab,0.009,0,0,0,40,0
+Black car smart remote key lost near admin block,Hyundai black car key fob found near admin block car parking,0.5178,1,1,1,2,1
+Grey messenger bag with shoulder strap lost in lab,Grey polyester laptop shoulder bag found in Computer Lab 3,0.6522,1,1,1,1,1
+Black Samsung Galaxy phone lost in lab (lost last month),Found Titan analog leather watch in library,0.008,0,0,0,7,0
+Urgent: Dell silver laptop Inspiron 15 lost in lab,Found Dell Inspiron 15 inch silver laptop on workstation in Computer Lab 3,0.8866,1,1,1,2,1
+Blue Milton stainless steel water bottle left at library,Insulated steel water bottle blue color found in library (handed over to security),0.6532,1,1,1,3,1
+Blue iPhone 13 lost at sports complex,Different brand: Found black Samsung flip phone in admin block,0.042,1,0,0,17,0
+Navy blue college backpack left in lecture room,Blue Skybags school bag found in Lecture Hall A (handed over to security),0.2,1,0,1,4,1
+Pair of brass padlock keys lost in gym,Found white lab coat in science block,0.02,0,0,0,9,0
+Fossil black dial watch forgotten in auditorium,Different brand: Found Casio scientific calculator in lecture hall,0.028,0,0,0,35,0
+Lost brown cardholder near canteen,Found brown slim cardholder in cafeteria seating area,0.6055,1,1,1,2,1
+Black leather wallet lost at library,Found Dell Inspiron laptop in lab,0.02,0,0,0,5,0
+Urgent: Black HP Pavilion gaming laptop with charger,Black gaming laptop with charger left in lab 3,0.5984,1,1,1,2,1
+Brown slim cardholder lost in cafeteria,Found silver MacBook Air in auditorium,0.02,0,0,0,14,0
+Godrej hostel door keys lost in library,Different brand: Found blue Milton thermos flask at library,0.035,0,0,0,19,0
+Black leather wallet lost at library (lost last month),Found Dell Inspiron laptop in lab,0.016,0,0,0,15,0
+Missing item: Dell silver laptop Inspiron 15 lost in lab,Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,20,0
+Space grey MacBook Air M2 forgotten in library,Apple MacBook Air grey laptop found on study desk in Central Library (handed over to security),0.5378,1,1,1,5,1
+Urgent: Hostel room 304 cylinder keys lost in library,Godrej hostel door keys found in library reading section,0.4836,1,1,1,1,1
+Red Nike gym bag left in sports hall,Red duffle bag containing gym gear found in sports complex (handed over to security),0.5995,1,1,1,3,1
+Red ladies purse lost in auditorium,Found a red clutch purse near stage in auditorium (handed over to security),0.5041,1,1,1,1,1
+Lost blue iPhone 13 near canteen (lost last month),Found set of Honda bike keys at main gate,0.008,0,0,0,24,0
+Casio fx-991EX scientific calculator lost in lecture hall,Found black Casio scientific calculator in Lecture Hall A (handed over to security),0.6598,1,1,1,2,1
+Urgent: Black car smart remote key lost near admin block,Hyundai black car key fob found near admin block car parking,0.4919,1,1,1,2,1
+Silver Casio analog metal watch lost in lecture hall,Different brand: Found brown ladies leather purse in cafeteria,0.021,0,0,0,15,0
+Missing item: Godrej hostel door keys lost in library,Found blue Milton thermos flask at library,0.045,0,1,0,16,0
+Urgent: Bike key on black neck lanyard lost near science department,Motorcycle key on lanyard found outside science block,0.5224,1,1,1,2,1
+Urgent: Red ladies purse lost in auditorium,Found a red clutch purse near stage in auditorium,0.5321,1,1,1,0,1
+Grey passport wallet misplaced admin building,Found grey travel wallet at admin block corridor (handed over to security),0.4364,1,1,0,2,1
+Urgent: Silver Acer Aspire slim laptop left in lecture room,Found Acer laptop silver color in Lecture Hall A,0.6089,1,1,1,2,1
+Missing item: Lost blue iPhone 13 near canteen,Found set of Honda bike keys at main gate,0.009,0,0,0,19,0
+White AirPods Pro 2 earbuds in charging case lost at student center,Different brand: Found black Wildcraft backpack in library,0.007,0,0,0,30,0
+Urgent: Lost blue iPhone 13 with cracked glass at library,Found iPhone 13 blue color with screen scratch near library entrance,0.6635,1,1,1,3,1
+Black leather men's wallet lost in library (lost last month),Found pink floral fabric wallet in cafeteria,0.064,1,0,0,15,0
+G-Shock rugged black digital watch left at ground,Casio G-Shock black digital watch found at sports ground,0.6454,1,1,1,3,1
+Missing item: Red Nike gym duffle bag left in sports hall,Found Ray-Ban spectacles in reading hall,0.0,0,0,0,28,0
+Brown slim cardholder lost in cafeteria (lost last month),Found silver MacBook Air in auditorium,0.016,0,0,0,25,0
+Black leather wallet lost at library,Found Dell Inspiron laptop in lab,0.02,0,0,0,0,0
+Dell silver laptop Inspiron 15 lost in lab (lost last month),Found emerald green OnePlus phone at cafeteria,0.0,0,0,0,12,0
+Black Apple Watch Series 8 lost in sports area,Apple watch black sports strap found on ground at sports complex,0.7473,1,1,1,0,1
+ThinkPad black laptop forgotten in admin office,Lenovo ThinkPad black laptop handed in at admin block,0.8125,1,1,1,3,1
+Black leather wallet lost at library,Different brand: Found Dell Inspiron laptop in lab,0.014,0,0,0,16,0
+Urgent: Space grey MacBook Air M2 forgotten in library,Apple MacBook Air grey laptop found on study desk in Central Library,0.5677,1,1,1,1,1
+Red Nike gym duffle bag lost in sports complex (lost last month),Found green military rucksack at main gate,0.04,1,0,0,18,0
+Gold finish Apple MacBook Air left in lecture hall,Found red Fastrack sports watch in sports complex,0.0,0,0,0,1,0
+Silver Casio analog metal watch lost in lecture hall,Found brown ladies leather purse in cafeteria,0.03,0,0,0,1,0
+Blue iPhone 13 lost at sports complex,Found black Samsung flip phone in admin block,0.06,1,0,0,1,0
+Silver Acer Aspire slim laptop left in lecture room,Found Acer laptop silver color in Lecture Hall A (handed over to security),0.5769,1,1,0,5,1
+Space grey MacBook Air M2 forgotten in library,Apple MacBook Air grey laptop found on study desk in Central Library,0.5976,1,1,1,1,1
+Bike key on black neck lanyard lost near science department,Motorcycle key on lanyard found outside science block (handed over to security),0.4949,1,1,1,6,1
+Green OnePlus phone left at cafeteria table,Emerald green OnePlus smartphone found near cafeteria food counter,0.4581,1,1,1,2,1
+Silver Acer Aspire slim laptop left in lecture room,Found Acer laptop silver color in Lecture Hall A,0.641,1,1,1,1,1
+Missing item: Insulated blue Milton steel thermos flask lost in library,Found red leather clutch purse in auditorium,0.0,0,1,0,36,0
+Black Samsung Galaxy phone lost in lab,Found Titan analog leather watch in library,0.01,0,0,0,0,0
+Black leather wallet lost at library,Different brand: Found Dell Inspiron laptop in lab,0.014,0,0,0,18,0
+Lost blue iPhone 13 near canteen,Different brand: Found set of Honda bike keys at main gate,0.007,0,0,0,24,0
+White AirPods Pro 2 earbuds in charging case lost at student center,Found black Wildcraft backpack in library,0.01,0,0,0,10,0
+White canvas tote bag forgotten in auditorium,Off-white tote bag with drawing books found in auditorium hall (handed over to security),0.5168,1,0,0,4,1
+Insulated blue Milton steel thermos flask lost in library,Found red leather clutch purse in auditorium,0.0,0,0,0,18,0
+White AirPods Pro 2 earbuds in charging case lost at student center,Different brand: Found black Wildcraft backpack in library,0.007,0,0,0,24,0
+Black leather wallet lost at library,Found black leather bi-fold wallet with ID near library tables (handed over to security),0.5983,1,0,0,3,1
+Black HP Pavilion gaming laptop with charger,Black gaming laptop with charger left in lab 3 (handed over to security),0.5669,1,0,1,6,1
+Navy blue Skybags backpack lost in lecture hall,Found black Hyundai car smart key at admin parking,0.01,0,0,0,16,0
+White AirPods Pro 2 earbuds in charging case lost at student center (lost last month),Found black Wildcraft backpack in library,0.008,0,0,0,18,0
+Navy blue Skybags backpack lost in lecture hall,Different brand: Found black Hyundai car smart key at admin parking,0.007,0,0,0,33,0
+White chemistry lab coat lost in science wing,White lab coat with name badge found in chemistry lab science block (handed over to security),0.7882,1,0,0,2,1
+Ray-Ban black frame reading glasses left in reading hall,Black prescription eyeglasses in hard case found in central library,0.25,1,1,1,3,1
+Missing item: Red Nike gym duffle bag left in sports hall,Found Ray-Ban spectacles in reading hall,0.0,0,0,0,49,0
+Bike key on black neck lanyard lost near science department,Motorcycle key on lanyard found outside science block,0.5499,1,1,1,2,1
+Godrej hostel door keys lost in library (lost last month),Found blue Milton thermos flask at library,0.04,0,0,1,5,0
+Urgent: G-Shock rugged black digital watch left at ground,Casio G-Shock black digital watch found at sports ground,0.6131,1,1,1,3,1
+White AirPods Pro 2 earbuds in charging case lost at student center (lost last month),Found black Wildcraft backpack in library,0.008,0,0,0,11,0
+Godrej hostel door keys lost in library,Found blue Milton thermos flask at library,0.05,0,0,1,3,0
+Missing item: Gold finish Apple MacBook Air left in lecture hall,Found red Fastrack sports watch in sports complex,0.0,0,0,0,28,0
+Urgent: Black Samsung Galaxy phone lost in lab,Samsung black mobile found on table in Computer Lab 3,0.5953,1,1,1,2,1
+Missing item: Black leather wallet lost at library,Found Dell Inspiron laptop in lab,0.018,0,0,0,29,0
+Urgent: Brown leather strap Titan watch lost in library,Found Titan analog watch with brown leather belt in library,0.8079,1,1,1,3,1
+Black leather wallet lost at library (lost last month),Found Dell Inspiron laptop in lab,0.016,0,0,0,15,0
+Urgent: Grey passport wallet misplaced admin building,Found grey travel wallet at admin block corridor,0.4607,1,1,1,1,1
+Urgent: Casio fx-991EX scientific calculator lost in lecture hall,Found black Casio scientific calculator in Lecture Hall A,0.6965,1,1,1,2,1
+Silver Casio analog watch lost in lecture hall,Different brand: Found black digital Apple watch at sports ground,0.063,1,0,0,14,0
+White chemistry lab coat lost in science wing,White lab coat with name badge found in chemistry lab science block,0.8758,1,1,1,1,1
