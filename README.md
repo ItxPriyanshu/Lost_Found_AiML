@@ -276,25 +276,6 @@ http://localhost:8501
 
 ---
 
-## 🎓 Viva Preparation & Common Questions
-
-Here are the most common questions college examiners ask, along with simple answers:
-
-#### Q1: What is the difference between Supervised and Unsupervised Learning?
-> **Answer**: In **Supervised Learning**, the training data contains input features ($X$) and ground-truth target labels ($y$). Our Random Forest learns to map descriptions to known categories, and Logistic Regression learns to map feature vectors to match labels ($0$ or $1$). In **Unsupervised Learning**, there are no labels. K-Means finds natural clusters among item descriptions solely based on geometric proximity in TF-IDF vector space.
-
-#### Q2: Why did you use TF-IDF instead of simple word counts (Bag of Words)?
-> **Answer**: Bag of Words only counts word frequency, meaning common filler words like *"the"*, *"item"*, or *"lost"* would receive high counts and dominate the representation. TF-IDF applies an inverse document frequency penalty to common words, amplifying the weight of distinctive keywords like *"AirPods"*, *"Dell"*, or *"titan"* that actually identify the object.
-
-#### Q3: Why did you use Random Forest for Category Classification?
-> **Answer**: Random Forest is an ensemble method combining multiple decision trees using bootstrap aggregating (bagging) and random feature selection. It avoids overfitting, handles sparse text matrices reliably, and provides fast multiclass probability estimates.
-
-#### Q4: Why is Logistic Regression used for matching instead of only Cosine Similarity?
-> **Answer**: Cosine similarity only checks whether two descriptions share vocabulary. However, two items might have high text similarity but be lost in completely different locations or months apart. Logistic Regression allows us to combine multiple heterogeneous features (text similarity, exact category match, location match, color match, date difference) and learns their optimal mathematical weights from labeled data.
-
-#### Q5: Can this system guarantee that an item belongs to someone?
-> **Answer**: No. Machine learning models produce probabilistic confidence estimates based on feature overlap. Real-world physical verification (e.g. asking the claimant to unlock a phone, verify ID cards inside a wallet, or produce an original receipt) is still required before physical handover.
-
 ---
 
 ## 🔮 Limitations & Future Scope
